@@ -1,2 +1,1 @@
-# data-analyst-portfolio
-My Data Analyst projects using SQL, Python, and Power BI.
+Welcome to my Data Analyst portfolio showcasing projects in SQL, Python, and Power BI focused on deriving business insights from data.
