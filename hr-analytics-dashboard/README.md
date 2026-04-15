@@ -49,7 +49,7 @@ Employee attrition is a major challenge for organizations. This project aims to:
 * dashboard/ → Power BI file
 * sql/ → SQL queries
 * python/ → Analysis notebook
-* images/ → Screenshots
+
 
 ---
 
@@ -63,4 +63,4 @@ Employee attrition is a major challenge for organizations. This project aims to:
 
 ## 🙌 Author
 
-Your Name
+Ayaan Sharma
